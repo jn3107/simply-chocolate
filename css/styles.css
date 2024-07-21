@@ -87,8 +87,8 @@ body {
 }
 
 .header-logo {
-  font-weight: 700;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.11;
   letter-spacing: -0.03em;
   color: var(--black);
@@ -106,8 +106,8 @@ body {
 }
 
 .header-menu-link {
-  font-weight: 500;
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.14;
   letter-spacing: -0.02em;
   color: var(--black);
@@ -141,8 +141,8 @@ body {
 }
 
 .hero-title {
-  font-weight: 500;
   font-size: 28px;
+  font-weight: 500;
   line-height: 1.21;
   letter-spacing: -0.03em;
   color: var(--white-2);
@@ -157,8 +157,8 @@ body {
 
 .hero-btn {
   font-family: inherit;
-  font-weight: 600;
   font-size: 14px;
+  font-weight: 600;
   color: var(--white-2);
   background-color: var(--orange);
   cursor: pointer;
@@ -169,8 +169,8 @@ body {
 }
 
 .hero-link {
-  font-weight: 600;
   font-size: 14px;
+  font-weight: 600;
   color: var(--white-2);
   padding: 14px 40px;
   border-radius: 100px;
@@ -178,8 +178,8 @@ body {
 }
 
 .hero-down {
-  font-weight: 500;
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.29;
   letter-spacing: -0.03em;
   color: var(--white-2);
@@ -207,16 +207,15 @@ body {
 }
 
 .advantages-subtitle {
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   color: var(--white-2);
   margin-bottom: 18px;
 }
 
 .advantages-item-text {
-  font-family: Montserrat;
-  font-weight: 400;
   font-size: 14px;
+  font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
   color: rgba(255, 255, 255, 0.7);
@@ -229,8 +228,8 @@ body {
 }
 
 .taste-title {
-  font-weight: 600;
   font-size: 24px;
+  font-weight: 600;
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
@@ -246,8 +245,8 @@ body {
 }
 
 .taste-text {
-  font-weight: 400;
   font-size: 14px;
+  font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
   text-align: center;
@@ -276,8 +275,8 @@ body {
 }
 
 .taste-subtitle {
-  font-weight: 600;
   font-size: 14px;
+  font-weight: 600;
   line-height: 1.29;
   letter-spacing: -0.02em;
   text-transform: uppercase;
@@ -298,8 +297,8 @@ body {
 }
 
 .made-title {
-  font-weight: 600;
   font-size: 24px;
+  font-weight: 600;
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
@@ -325,8 +324,8 @@ body {
 }
 
 .made-head {
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   line-height: 1.33;
   color: var(--black);
   max-width: 350px;
@@ -343,8 +342,8 @@ body {
 }
 
 .made-item-text {
-  font-weight: 400;
   font-size: 14px;
+  font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
   color: var(--black);
@@ -357,8 +356,8 @@ body {
 }
 
 .products-title {
-  font-weight: 600;
   font-size: 24px;
+  font-weight: 600;
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
@@ -390,8 +389,8 @@ body {
 }
 
 .products-subtitle {
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   line-height: 1.33;
   letter-spacing: -0.02em;
   text-transform: uppercase;
@@ -401,8 +400,8 @@ body {
 }
 
 .products-item-text {
-  font-weight: 400;
   font-size: 12px;
+  font-weight: 400;
   line-height: 1.17;
   letter-spacing: -0.02em;
   color: rgba(17, 17, 17, 0.7);
@@ -412,8 +411,8 @@ body {
 
 .products-item-btn {
   font-family: inherit;
-  font-weight: 600;
   font-size: 14px;
+  font-weight: 600;
   color: var(--black);
   background-color: var(--white);
   cursor: pointer;
@@ -431,8 +430,8 @@ body {
 }
 
 .top-title {
-  font-weight: 600;
   font-size: 24px;
+  font-weight: 600;
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
@@ -463,8 +462,8 @@ body {
 }
 
 .top-subtitle {
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   line-height: 1.33;
   letter-spacing: -0.02em;
   text-transform: uppercase;
@@ -482,8 +481,8 @@ body {
 }
 
 .loved-title {
-  font-weight: 600;
   font-size: 24px;
+  font-weight: 600;
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
@@ -512,8 +511,8 @@ body {
 }
 
 .loved-subtitle {
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   line-height: 1.33;
   text-align: center;
   color: var(--black);
@@ -521,8 +520,8 @@ body {
 }
 
 .loved-item-text {
-  font-weight: 400;
   font-size: 14px;
+  font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
   text-align: center;
@@ -531,8 +530,8 @@ body {
 
 .loved-btn {
   font-family: inherit;
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   color: var(--black);
   cursor: pointer;
   padding: 14px 40px;
@@ -560,8 +559,8 @@ body {
 }
 
 .footer-main-text {
-  font-weight: 500;
   font-size: 28px;
+  font-weight: 500;
   line-height: 1.21;
   letter-spacing: -0.02em;
   color: var(--white-2);
@@ -583,8 +582,8 @@ body {
 }
 
 .footer-socials-head {
-  font-weight: 500;
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.29;
   text-align: end;
   color: var(--white-2);
@@ -602,6 +601,11 @@ body {
 .footer-socials-link {
 }
 
+.footer-socials-link:hover,
+.footer-socials-link:focus {
+  color: var(--orange);
+}
+
 .contacts {
   display: flex;
   flex-direction: column;
@@ -609,8 +613,8 @@ body {
 }
 
 .footer-address-head {
-  font-weight: 500;
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.29;
   text-align: center;
   color: var(--white-2);
@@ -632,12 +636,17 @@ body {
 }
 
 .footer-address-link {
-  font-weight: 400;
   font-size: 14px;
+  font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
   text-align: center;
   color: var(--white-2);
+}
+
+.footer-address-link:hover,
+.footer-address-link:focus {
+  color: var(--orange);
 }
 
 .footer-navigation {
@@ -651,9 +660,14 @@ body {
 .footer-menu-item {
 }
 
+.footer-menu-link:hover,
+.footer-menu-link:focus {
+  color: var(--orange);
+}
+
 .footer-menu-link {
-  font-weight: 500;
   font-size: 14px;
+  font-weight: 500;
   line-height: 1.14;
   letter-spacing: -0.02em;
   color: var(--white-2);
